@@ -8,4 +8,7 @@ e following:
                 for number in my_list:
                         print number
 
-This code will go through each element in 'my_list' and
+This code will go through each element in 'my_list' and print it. Unlike C/C++, there is no 'i' variable which counts up, instead this will access each element of the list, and within the loop you can easily manipulate each element in the list. The generic code for this is:
+
+        for variable in list_name:
+                #Do something
