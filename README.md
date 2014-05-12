@@ -35,9 +35,9 @@ Finally, you will print out each of the names with it's index preceeding it so t
 
 ### Grading
 This assignment will be graded as follows:
--10% Submission
--10% Creation of a list
--20% Addition of 2 names to the list
--20% Removal of all but Initial
--20% Appending of Last name
--20% Correctly formatted printing of names
+- 10% Submission
+- 10% Creation of a list
+- 20% Addition of 2 names to the list
+- 20% Removal of all but Initial
+- 20% Appending of Last name
+- 20% Correctly formatted printing of names
